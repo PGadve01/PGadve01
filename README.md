@@ -2,9 +2,12 @@
 - 👀 I’m interested in ...UI/UX Design, Web Development, and Creative Problem-Solving.
 - 🌱 I’m currently learning ...Web Development & UI/UX Design.
 - 💞️ I’m looking to collaborate on ...Development & Design Projects.
-- 📫 How to reach me ...@Linkedin-> www.linkedin.com/in/pranit-gadave-bb7bb2233,@Naukri
-                        @Whatsapp-MESSENGER->+919322635471
-                         @Gmail-pranitgadve@gmail.com
+- 📫 How to reach me ...
+- @Linkedin-> www.linkedin.com/in/pranit-gadave-bb7bb2233,
+- @Whatsapp-MESSENGER-> +919322635471,
+- @Gmail-> pranitgadve@gmail.com
+- @Naukri-> 
+                        
 - 😄 Pronouns: ...MALE
 - ⚡ Fun fact: ...Always eager to learn and innovate while pursuing my university studies.
 <!---
