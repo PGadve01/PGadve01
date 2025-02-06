@@ -6,7 +6,7 @@
 - @Linkedin-> www.linkedin.com/in/pranit-gadave-bb7bb2233,
 - @Whatsapp-MESSENGER-> +919322635471,
 - @Gmail-> pranitgadve@gmail.com
-- ⚡ Fun fact: ...Always eager to learn and innovate while pursuing my university studies.
+
 <!---
 PGadve01/PGadve01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
